@@ -1,17 +1,4 @@
-#!/usr/bin/python
-#-----------------------------------------------------------------------------
-# Name:        threats2MitreApp.py [python3]
-#
-# Purpose:     This module is the main web interface to call the AI-llm MITRE 
-#              ATT&CK-Mapper/ CWE-Matcher module to generate the related report.
-#  
-# Author:      Yuancheng Liu
-#
-# Created:     2024/03/02
-# version:     v0.1.2
-# Copyright:   Copyright (c) 2024 LiuYuancheng
-# License:     MIT License    
-#-----------------------------------------------------------------------------
+
 import os
 import threading
 
