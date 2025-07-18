@@ -1,18 +1,4 @@
-#!/usr/bin/python
-#-----------------------------------------------------------------------------
-# Name:        threats2MitreRun.py
-#
-# Purpose:     This module will load the threats scenario description from the 
-#              file and call the AI-llm MITRE ATT&CK-Mapper/ CWE-Matcher module 
-#              to generate the related report.
-#              
-# Author:      Yuancheng Liu
-#
-# Created:     2024/02/29
-# Version:     v_0.1.1
-# Copyright:   Copyright (c) 2024 LiuYuancheng
-# License:     MIT License
-#-----------------------------------------------------------------------------
+
 
 import os
 import json
