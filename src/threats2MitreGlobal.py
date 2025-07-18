@@ -1,23 +1,4 @@
-#-----------------------------------------------------------------------------
-# Name:        threats2MitreGlobal.py
-#
-# Purpose:     This module is used as a project global config file to set the 
-#              constants, parameters and instances which will be used in the 
-#              other modules in the project.
-#              
-# Author:      Yuancheng Liu
-#
-# Created:     2024/02/26
-# Version:     v_0.1.0
-# Copyright:   Copyright (c) 2023 LiuYuancheng
-# License:     MIT License
-#-----------------------------------------------------------------------------
-"""
-For good coding practice, follow the below naming convention:
-    1) Global variables should be defined with initial character 'g'.
-    2) Global instances should be defined with initial character 'i'.
-    3) Global CONSTANTS should be defined with UPPER_CASE letters.
-"""
+
 
 import os, sys
 
