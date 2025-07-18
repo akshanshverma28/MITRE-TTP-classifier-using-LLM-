@@ -1,18 +1,10 @@
-#!/usr/bin/python
-#-----------------------------------------------------------------------------
-# Name:        ConfigLoader.py
-#
+
 # Purpose:     This module will provide API to load the not stand text format 
 #              config file's data. The user can call different get__ method to 
 #              fetch the related and call append__ method to new data line into
 #              the config file.
 #
-# Author:      Yuancheng Liu
-#
-# Created:     2019/11/12
-# Version:     v_0.1.2
-# Copyright:   Copyright (c) 2019 LiuYuancheng
-# License:     MIT License
+
 #-----------------------------------------------------------------------------
 """ Program Design:
     Some times we want to read some program's simple customized config files which 
