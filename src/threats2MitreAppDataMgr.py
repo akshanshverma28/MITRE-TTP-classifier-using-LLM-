@@ -1,16 +1,4 @@
-#-----------------------------------------------------------------------------
-# Name:        threats2MitreAppDataMgr.py
-#
-# Purpose:     Data manager class running in the sub-thread to handle all the 
-#              mapping and matching request from the web page.
-#              
-# Author:      Yuancheng Liu 
-#
-# Version:     v_0.1.2
-# Created:     2024/03/02
-# Copyright:   Copyright (c) 2024 LiuYuancheng
-# License:     MIT License
-#-----------------------------------------------------------------------------
+
 
 import os
 import json
