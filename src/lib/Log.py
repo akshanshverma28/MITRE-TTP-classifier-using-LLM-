@@ -1,16 +1,4 @@
- #!/usr/bin/python
-#-----------------------------------------------------------------------------
-# Name:        Log.py
-#
-# Purpose:     This module is used to log the program execution information.(
-#               info, warning, debug, error)
-#
-# Author:      Yuancheng Liu
-#
-# Created:     2020/07/13
-# Copyright:   
-# License:     
-#-----------------------------------------------------------------------------
+
 import os
 import time
 import logging
