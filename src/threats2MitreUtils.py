@@ -1,20 +1,4 @@
-#!/usr/bin/python
-#-----------------------------------------------------------------------------
-# Name:        threats2MitreUtils.py
-#
-# Purpose:     This module will provide two LLM-AI MITRE frame work mapper module
-#              - llmMITREMapper : map the attack scenario attack flow path to the 
-#                   MITRE ATT&CK Matrix to get the related tactic and technique.
-#              - llmMITREMatcher : match the vulnerabilities appeared in the attack
-#                   scenario to MITRE CWE frame work to get the related CWE. 
-#                
-# Author:      Yuancheng Liu
-#
-# Created:     2024/02/29
-# Version:     v_0.1.1
-# Copyright:   Copyright (c) 2024 LiuYuancheng
-# License:     MIT License
-#-----------------------------------------------------------------------------
+
 """ Program design: we want to use the AI-LLM to help to process the threats 
 scenario description document such as (technical blog, CTI report, cyber attack 
 training note) to summarize the attack flow path in the material, then parse the 
